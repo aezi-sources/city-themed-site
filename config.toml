@@ -1,4 +1,4 @@
-baseURL = 'http://city.aezlo.com/'
+baseURL = 'https://minichest.github.io/city-themed-site'
 languageCode = 'en-us'
 title = 'My City Site'
 
